@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/RocketChat/Rocket.Chat.Go.SDK/models"
-	"github.com/prometheus/common/log"
+	"github.com/prometheus/common/promlog"
 	"github.com/prometheus/common/version"
 	"io/ioutil"
 	"net/http"
