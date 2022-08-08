@@ -5,7 +5,7 @@ import (
 	"github.com/RocketChat/Rocket.Chat.Go.SDK/models"
 	"github.com/RocketChat/Rocket.Chat.Go.SDK/realtime"
 	"github.com/prometheus/alertmanager/template"
-	"github.com/prometheus/common/log"
+	"github.com/prometheus/common/promlog"
 	"strings"
 )
 
